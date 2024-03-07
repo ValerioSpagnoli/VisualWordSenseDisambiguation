@@ -55,11 +55,9 @@ The results of the definitions-based solution are:
 | Translation       | False  | False           | True            | True       |
 |-------------------|--------|-----------------|-----------------|------------|
 | Description       | False  | True            | False           | True       |
-|                   |        |                 |                 |            |
 | English accuracy  | 0.5745 | **0.6112**      | 0.5745          | **0.6112** |
 | Italian accuracy  | 0.1836 | 0.2754          | **0.5311**      | 0.5115     |
 | Farsi accuracy    | 0.0950 | 0.2350          | **0.5150**      | 0.5000     |
-|                   |        |                 |                 |            |
 | Weighted Accuracy | 0.3523 | 0.4277          | 0.5486          | **0.5568** |
 
 
